@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.card{
+	background-color:#eee;
+	width:50px;
+	padding:100px;
+	text-align:center;
+	
+}
